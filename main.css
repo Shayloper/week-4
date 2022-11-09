@@ -1,0 +1,13 @@
+body{
+    /* this is a commet*/
+    width: 600px;
+    margin: auto;
+    border:1px solid yellowgreen ; 
+}
+div{
+    border:1px dashed blue ; 
+}
+img{
+    width:100%
+}
+
